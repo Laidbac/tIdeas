@@ -1,0 +1,79 @@
+==========
+==========
+function chicken() {
+  return egg();
+}
+function egg() {
+  return chicken();
+}
+console.log(chicken() + " came first.");
+// ? ??
+
+==========
+==========
+
+It's not a bug, it's an enhancement
+
+==========
+==========
+
+fmtNumer:("Me") console.log(Nan)
+
+==========
+==========
+
+Personal &nbsp; dude
+
+==========
+==========
+
+<img src="t-shirt.jpg" alt="what your reading" />
+
+==========
+==========
+
+<b>don't be bold</b> <strong be strong</strong>
+
+==========
+==========
+
+#human {height: 1em; width: 0.3em; padding: 10em;}
+
+==========
+==========
+
+Your quotes are breaking my response
+
+==========
+==========
+
+PSD's over wireframes!
+
+==========
+==========
+
+## ${Can you see me now} ##
+
+==========
+==========
+
+1 day estimate != done in 1 day
+
+==========
+==========
+
+==========
+==========
+
+htm dosser!
+
+==========
+==========
+
+==========
+==========
+
+undefined === undefined
+
+==========
+==========
